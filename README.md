@@ -1,4 +1,7 @@
 # Online retail shopping in Canada: Click and Buy
+
+![Online shopping addiction](https://github.com/TracieTruong/Visualization-Assignment-1-Storyboard/blob/2d7abd99fb1720333caf0444ebe0a840ead3b683/Online%20Shopping%20Addiction.png)
+
 ## **Introduction and Rationale**  
 I have chosen the theme of online shopping in Canada, focusing on the main perspective of a Canadian shopaholic who has driven into the e-commerce boom after Covid-19. Retail shopping is a widespread topic, especially after the Covid-19 pandemic and during this digital era. In this assignment, I will explore the Canadian shopping trends from 2019 to 2025 and their shopping behaviors. The reason for choosing this topic is based on my story of shopping addiction. During the pandemic, I got used to shopping online and with the help of algorithms, I found a variety of options for the products I need without going out to the store and searching for them. The e-commerce not only saves time for customers but also helps many retailers and small businesses have a closer chance to approach their consumers. I believe this experience has become a trend for shopping ever since.  
 ## **Method and Dataset selection**  
