@@ -50,3 +50,5 @@ This chart shows the top 10 e-commerce sites that Canadians visited the most in 
 
 ## **Conclusion**  
 This project integrates human-centered storytelling with data to provide a view of online shopping in Canada. By connecting personal narrative to broader shopping trends, I want to inspire the youth, who are our future, to keep pace with the digital trend and apply it to their daily lives. Moreover, through this project, I also encourage entrepreneurs to start their businesses through online platforms, which can help them save operational costs in some aspects.
+
+[Return to my portfolio](https://tracietruong.github.io/Portfolio/)
